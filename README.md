@@ -1,4 +1,3 @@
 # primeiro\_GitHub
-
-Primeira modificação e configuração de um GitHub.
+Segunda modificação e configuração de um GitHub.
 
